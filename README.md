@@ -35,7 +35,6 @@
 >
 > Your support in the following ways would be greatly appreciated:
 >
-> 1. Financial support: [GitHub Sponsors](https://github.com/sponsors/ryo-ma)
 > 2. Reducing server load through self-hosting (by forking on GitHub and
 >    deploying to Vercel)
 > 3. Share your github-profile-trophy URL deployed to Vercel for load balancing
